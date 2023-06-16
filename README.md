@@ -1,7 +1,4 @@
-
-# ¡Hola! Soy Yeison Andres Parra Cordoba
-
-## Desarrollador Front End especializado en React
+# Desarrollador Front End especializado en React
 
 ¡Bienvenido/a a mi perfil de GitHub! Soy un apasionado desarrollador Front End con experiencia en la creación de aplicaciones web modernas y responsivas utilizando tecnologías como HTML, CSS, SASS, JavaScript, React, Next.js y Cypress. Mi objetivo es ofrecer experiencias de usuario excepcionales y asegurar la calidad del código mediante el uso de buenas prácticas de desarrollo y control de versiones.
 
