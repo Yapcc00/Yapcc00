@@ -1,6 +1,6 @@
 # Desarrollador Front End especializado en React
 
-¡Bienvenido/a a mi perfil de GitHub! Soy un apasionado desarrollador Front End con experiencia en la creación de aplicaciones web modernas y responsivas utilizando tecnologías como HTML, CSS, SASS, JavaScript, React, Next.js y Cypress. Mi objetivo es ofrecer experiencias de usuario excepcionales y asegurar la calidad del código mediante el uso de buenas prácticas de desarrollo y control de versiones.
+Desarrollador Front End con experiencia en la creación de aplicaciones web modernas y responsivas 
 
 ### Habilidades técnicas
 
@@ -8,7 +8,7 @@
 
 ### Experiencia
 
-Durante mi trayectoria profesional, he trabajado en diversos proyectos como desarrollador Front End, donde he tenido la oportunidad de aplicar mis conocimientos en el desarrollo de interfaces de usuario atractivas y funcionales. He colaborado estrechamente con equipos multidisciplinarios y he contribuido al éxito de los proyectos mediante la implementación de soluciones creativas y eficientes.
+ He colaborado estrechamente con equipos multidisciplinarios y he contribuido al éxito de los proyectos mediante la implementación de soluciones creativas y eficientes.
 
 
 ### Contacto
