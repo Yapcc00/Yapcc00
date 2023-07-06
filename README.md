@@ -1,6 +1,6 @@
-# Desarrollador Front End especializado en React
+# Desarrollador 
 
-Desarrollador Front End con experiencia en la creación de aplicaciones web modernas y responsivas 
+Desarrollado con experiencia en la creación de aplicaciones web modernas y responsivas 
 
 ### 🧰 Lenguajes <br/>
 
