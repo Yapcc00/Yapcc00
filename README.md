@@ -1,6 +1,4 @@
-# Desarrollador 
-
-Desarrollado con experiencia en la creación de aplicaciones web modernas y responsivas 
+#QA MANUAL | QA AUTOMATION
 
 ### 🧰 Lenguajes <br/>
 
@@ -9,7 +7,6 @@ Desarrollado con experiencia en la creación de aplicaciones web modernas y resp
 ### Experiencia
 
  He colaborado estrechamente con equipos multidisciplinarios y he contribuido al éxito de los proyectos mediante la implementación de soluciones creativas y eficientes.
-
 
 ### Contacto
 
