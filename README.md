@@ -11,6 +11,8 @@ QA MANUAL | QA AUTOMATION
  <img align="left" alt="Git" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> 
  <img align="left" alt="GitHub" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" /> <br>
 
+ 
+
 ### Experiencia
 
  He colaborado estrechamente con equipos multidisciplinarios y he contribuido al éxito de los proyectos mediante la implementación de soluciones creativas y eficientes.
