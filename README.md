@@ -1,6 +1,6 @@
-### QA MANUAL | QA AUTOMATION
+### QA MANUAL | QA AUTOMATION <br/><br/>
 
-
+### Habilidades
  <img align="left" alt="java" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
 <img align="left" alt="selenium" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" />
  <img  align="left" alt="cumcuber" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain-wordmark.svg" />    
