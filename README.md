@@ -1,4 +1,4 @@
-QA MANUAL | QA AUTOMATION
+### QA MANUAL | QA AUTOMATION
 
 
  <img align="left" alt="java" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
