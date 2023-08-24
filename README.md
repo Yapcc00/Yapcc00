@@ -1,4 +1,4 @@
-###| QA AUTOMATION <br/><br/>
+ QA AUTOMATION <br/><br/>
 
 ### Habilidades <br/>
  <img align="left" alt="java" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
