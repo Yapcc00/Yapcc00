@@ -2,9 +2,12 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+Soy+YeisonCordoba!;Soy+un+QA+Automatizado...)](https://git.io/typing-svg)
 
-Enfocado en asegurar la calidad del software a través de pruebas automatizadas. Este repositorio es el lugar donde comparto mis proyectos, scripts y experiencias relacionadas con la automatización de pruebas.
-- 💼 Actualmente trabajo como QA Automatizador.
-- 🚀 Me encanta explorar nuevas tecnologías y encontrar soluciones creativas para desafíos de testing.
+Actualmente desempeño el rol de QA Automatizador, comprometido/a con la mejora continua y la excelencia en la calidad del software. Aquí compartiré mis proyectos, scripts y experiencias relacionadas con la automatización de pruebas.
+
+¿Qué encontrarás aquí? 🌐
+Proyectos: Muestra de mis trabajos y contribuciones en el ámbito de la automatización de pruebas.
+Scripts: Código fuente y scripts que he desarrollado para optimizar procesos de testing.
+Experiencias: Reflexiones y aprendizajes derivados de mi trayectoria en el mundo de la calidad del software.
 
  # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=yapcc00&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
