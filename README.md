@@ -10,7 +10,7 @@
 - 🌐 Puedes encontrarme en [LinkedIn](https://www.linkedin.com/in/yeison-andres-parra-cordoba-b99487206/) para conocer más sobre mi trayectoria profesional.
 
 ## Habilidades
-<img aling="left" alt="Java" width="60px" style="padding-right10px:" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+<img aling="left" alt="Java" width="90px" style="padding-right10px:" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
           
 
 
