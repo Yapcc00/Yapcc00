@@ -19,7 +19,7 @@
 <img aling="left" alt="html" width="90px" style="padding-right10px:"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"  />
 <img aling="left" alt="jenkins" width="90px" style="padding-right10px:"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg"  />
 <img aling="left" alt="css" width="90px" style="padding-right10px:"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"  />
-<img aling="left" alt="js" width="90px" style="padding-right10px:"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img aling="left" alt="js" width="80px" style="padding-right10px:"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 
           
 
