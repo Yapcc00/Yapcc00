@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+Soy+YeisonCordoba!;Soy+un+QA+Automatizado...)](https://git.io/typing-svg)
 
-Actualmente desempeño el rol de QA Automatizador, comprometido/a con la mejora continua y la excelencia en la calidad del software. Aquí compartiré mis proyectos, scripts y experiencias relacionadas con la automatización de pruebas.
+Actualmente desempeño el rol de QA Automatizador, comprometido con la mejora continua y la excelencia en la calidad del software. Aquí compartiré mis proyectos, scripts y experiencias relacionadas con la automatización de pruebas.
 
 ¿Qué encontrarás aquí? 🌐
 Proyectos: Muestra de mis trabajos y contribuciones en el ámbito de la automatización de pruebas.
