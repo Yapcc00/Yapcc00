@@ -1,28 +1,18 @@
- QA AUTOMATION <br/><br/>
+# Bienvenido a mi Repositorio
 
-### Habilidades <br/>
- <img align="left" alt="java" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-<img align="left" alt="selenium" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" />
- <img  align="left" alt="cumcuber" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain-wordmark.svg" />    
- <img  align="left" alt="mysql" width="50px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />  
-<img align="left" alt="HTML" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" /> 
-<img align="left" alt="CSS" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
- <img align="left" alt="Js" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
- <img align="left" alt="Next.js" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" />
- <img align="left" alt="Git" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> 
- <img align="left" alt="GitHub" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" /> <br/><br/>
+¡Hola! Soy Yeison Cordoba, un apasionado QA automatizador, enfocado en asegurar la calidad del software a través de pruebas automatizadas. Este repositorio es el lugar donde comparto mis proyectos, scripts y experiencias relacionadas con la automatización de pruebas.
 
- 
+## Acerca de mí
+- 💼 Actualmente trabajo como QA Automatizador.
+- 🚀 Me encanta explorar nuevas tecnologías y encontrar soluciones creativas para desafíos de testing.
+- 🌐 Puedes encontrarme en [LinkedIn](https://www.linkedin.com/in/yeison-andres-parra-cordoba-b99487206/) para conocer más sobre mi trayectoria profesional.
 
-### Experiencia
+- ## Habilidades
+  
 
- He colaborado estrechamente con equipos multidisciplinarios y he contribuido al éxito de los proyectos mediante la implementación de soluciones creativas y eficientes.
+## Contacto
+¡Me encantaría conectarme contigo! Si tienes alguna pregunta, sugerencia o simplemente quieres charlar sobre QA y automatización, no dudes en contactarme:
+- ✉️ Correo electrónico: [tu.correo@gmail.com](yeisoncordoba672@gmail.com)
 
-### Contacto
 
-¡Estoy abierto a nuevas oportunidades y colaboraciones emocionantes! Si deseas discutir proyectos, compartir ideas o simplemente conectarte, no dudes en contactarme a través de los siguientes medios:
-
-- Correo electrónico: yeisoncordoba672@gmail.com
-- LinkedIn: https://www.linkedin.com/in/yeison-cordoba-b99487206/
-
-Gracias por visitar mi perfil de GitHub. ¡Espero tener la oportunidad de trabajar juntos y seguir creciendo QA Manual | QA Automation
+¡Gracias por visitar mi repositorio! Espero que encuentres útiles mis proyectos y que podamos colaborar en el emocionante mundo de la QA automatizada.
