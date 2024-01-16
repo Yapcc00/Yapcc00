@@ -13,7 +13,7 @@ Enfocado en asegurar la calidad del software a través de pruebas automatizadas.
 
 
 
-<h3>💻 Tech Stack::</h3>
+# 💻 Tech Stack
 <img aling="left" alt="Java" width="90px" style="padding-right10px:" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" /> <img aling="left" alt="selenium" width="80px" style="padding-right10px:" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg"  />
 <img aling="left" alt="cucumber" width="90px" style="padding-right10px:" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain-wordmark.svg"  />
 <img aling="left" alt="mysql" width="90px" style="padding-right10px:"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"  />
