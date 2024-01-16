@@ -31,8 +31,8 @@ Enfocado en asegurar la calidad del software a través de pruebas automatizadas.
 
 # 📱 Contact
 ¡Me encantaría conectarme contigo! Si tienes alguna pregunta, sugerencia o simplemente quieres charlar sobre QA y automatización, no dudes en contactarme:
-<a href="yeisoncordoba672@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" width="50"  alt="Gmail"/></a>
-	<a href="https://www.linkedin.com/in/yeison-andres-parra-cordoba-b99487206/"> <img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" width="50" alt="LinkedIn"/></a>
+<a href="yeisoncordoba672@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" width="50px"  alt="Gmail"/></a>
+<a href="https://www.linkedin.com/in/yeison-andres-parra-cordoba-b99487206/"> <img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" width="50px" alt="LinkedIn"/></a>
 
 
 
