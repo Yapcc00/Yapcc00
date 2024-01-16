@@ -4,7 +4,7 @@
 
 Actualmente desempeño el rol de QA Automatizador, comprometido con la mejora continua y la excelencia en la calidad del software. Aquí compartiré mis proyectos, scripts y experiencias relacionadas con la automatización de pruebas.
 
-<h2>¿Qué encontrarás aquí? 🌐 </h2>
+# ¿Qué encontrarás aquí? 🌐 
 Proyectos: Muestra de mis trabajos y contribuciones en el ámbito de la automatización de pruebas.
 
 Scripts: Código fuente y scripts que he desarrollado para optimizar procesos de testing.
