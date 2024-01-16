@@ -10,16 +10,16 @@
 - 🌐 Puedes encontrarme en [LinkedIn](https://www.linkedin.com/in/yeison-andres-parra-cordoba-b99487206/) para conocer más sobre mi trayectoria profesional.
 
 ## Habilidades
-<img aling="left" alt="Java" width="90px" style="padding-right10px:" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" /> <img aling="left" alt="selenium" width="90px" style="padding-right10px:" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg"  />
-<img aling="left" alt="Java" width="90px" style="padding-right10px:" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-<img aling="left" alt="Java" width="90px" style="padding-right10px:" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-<img aling="left" alt="Java" width="90px" style="padding-right10px:" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-<img aling="left" alt="Java" width="90px" style="padding-right10px:" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-<img aling="left" alt="Java" width="90px" style="padding-right10px:" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-<img aling="left" alt="Java" width="90px" style="padding-right10px:" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-<img aling="left" alt="Java" width="90px" style="padding-right10px:" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-<img aling="left" alt="Java" width="90px" style="padding-right10px:" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-<img aling="left" alt="Java" width="90px" style="padding-right10px:" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+<img aling="left" alt="Java" width="90px" style="padding-right10px:" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" /> <img aling="left" alt="selenium" width="80px" style="padding-right10px:" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg"  />
+<img aling="left" alt="cucumber" width="90px" style="padding-right10px:" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain-wordmark.svg"  />
+<img aling="left" alt="mysql" width="90px" style="padding-right10px:"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"  />
+<img aling="left" alt="docker" width="90px" style="padding-right10px:"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
+<img aling="left" alt="jira" width="90px" style="padding-right10px:"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" />
+<img aling="left" alt="kubernetes" width="90px" style="padding-right10px:"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" />
+<img aling="left" alt="html" width="90px" style="padding-right10px:"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"  />
+<img aling="left" alt="jenkins" width="90px" style="padding-right10px:"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg"  />
+<img aling="left" alt="css" width="90px" style="padding-right10px:"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"  />
+<img aling="left" alt="js" width="90px" style="padding-right10px:"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 
           
 
