@@ -7,8 +7,7 @@
 ## Acerca de mí
 - 💼 Actualmente trabajo como QA Automatizador.
 - 🚀 Me encanta explorar nuevas tecnologías y encontrar soluciones creativas para desafíos de testing.
-- 🌐 Puedes encontrarme en LinkedIn para conocer más sobre mi trayectoria profesional. </br>
-- <a href="https://www.linkedin.com/in/yeison-andres-parra-cordoba-b99487206/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="david mendoza ramos" height="30" width="40" /></a>
+
 
 
 ## Habilidades
@@ -28,7 +27,7 @@
 
 ## Contacto
 ¡Me encantaría conectarme contigo! Si tienes alguna pregunta, sugerencia o simplemente quieres charlar sobre QA y automatización, no dudes en contactarme:
-[tu.correo@gmail.com](yeisoncordoba672@gmail.com)
+- <a href="https://www.linkedin.com/in/yeison-andres-parra-cordoba-b99487206/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="david mendoza ramos" height="30" width="40" /></a> 
 
 
 ¡Gracias por visitar mi repositorio! Espero que encuentres útiles mis proyectos y que podamos colaborar en el emocionante mundo de la QA automatizada.
