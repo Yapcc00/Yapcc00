@@ -29,7 +29,7 @@ Enfocado en asegurar la calidad del software a través de pruebas automatizadas.
           
 
 
-# Contact
+# 📱 Contact
 ¡Me encantaría conectarme contigo! Si tienes alguna pregunta, sugerencia o simplemente quieres charlar sobre QA y automatización, no dudes en contactarme:
 - <a href="https://www.linkedin.com/in/yeison-andres-parra-cordoba-b99487206/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="david mendoza ramos" height="30" width="40" /></a> 
 
