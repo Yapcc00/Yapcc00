@@ -13,8 +13,7 @@ Enfocado en asegurar la calidad del software a través de pruebas automatizadas.
 
 
 
-
-# 💻 Tech Stack:
+<h3 align="center">💻 Tech Stack::</h3>
 <img aling="left" alt="Java" width="90px" style="padding-right10px:" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" /> <img aling="left" alt="selenium" width="80px" style="padding-right10px:" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg"  />
 <img aling="left" alt="cucumber" width="90px" style="padding-right10px:" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain-wordmark.svg"  />
 <img aling="left" alt="mysql" width="90px" style="padding-right10px:"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"  />
@@ -31,9 +30,11 @@ Enfocado en asegurar la calidad del software a través de pruebas automatizadas.
 
 # 📱 Contact
 ¡Me encantaría conectarme contigo! Si tienes alguna pregunta, sugerencia o simplemente quieres charlar sobre QA y automatización, no dudes en contactarme:
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yeison-andres-parra-cordoba-b99487206/)
-[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](yeisoncordoba672@gmail.com)
 
+<div align="center">
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yeison-andres-parra-cordoba-b99487206/)
+[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:produtor.yeisoncordoba672@gmail.com)
+</div>
 
 
 
