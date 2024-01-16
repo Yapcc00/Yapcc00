@@ -7,7 +7,8 @@
 ## Acerca de mí
 - 💼 Actualmente trabajo como QA Automatizador.
 - 🚀 Me encanta explorar nuevas tecnologías y encontrar soluciones creativas para desafíos de testing.
-- 🌐 Puedes encontrarme en [LinkedIn](https://www.linkedin.com/in/yeison-andres-parra-cordoba-b99487206/) para conocer más sobre mi trayectoria profesional.
+- 🌐 Puedes encontrarme en LinkedIn para conocer más sobre mi trayectoria profesional. <a href="https://www.linkedin.com/in/yeison-andres-parra-cordoba-b99487206/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="david mendoza ramos" height="30" width="40" /></a>
+
 
 ## Habilidades
 <img aling="left" alt="Java" width="90px" style="padding-right10px:" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" /> <img aling="left" alt="selenium" width="80px" style="padding-right10px:" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg"  />
@@ -26,7 +27,7 @@
 
 ## Contacto
 ¡Me encantaría conectarme contigo! Si tienes alguna pregunta, sugerencia o simplemente quieres charlar sobre QA y automatización, no dudes en contactarme:
-- https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+ <a href="https://www.linkedin.com/in/yeison-andres-parra-cordoba-b99487206/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail-alt.svg" alt="david mendoza ramos" height="30" width="40" /></a>
 [tu.correo@gmail.com](yeisoncordoba672@gmail.com)
 
 
