@@ -4,7 +4,7 @@
 
 ¡Hola! Soy Yeison Cordoba, un apasionado QA automatizador, enfocado en asegurar la calidad del software a través de pruebas automatizadas. Este repositorio es el lugar donde comparto mis proyectos, scripts y experiencias relacionadas con la automatización de pruebas.
 
-## Acerca de mí
+# 💫 About Me:
 - 💼 Actualmente trabajo como QA Automatizador.
 - 🚀 Me encanta explorar nuevas tecnologías y encontrar soluciones creativas para desafíos de testing.
 
@@ -16,7 +16,7 @@
 
 
 
-## Habilidades
+# 💻 Tech Stack:
 <img aling="left" alt="Java" width="90px" style="padding-right10px:" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" /> <img aling="left" alt="selenium" width="80px" style="padding-right10px:" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg"  />
 <img aling="left" alt="cucumber" width="90px" style="padding-right10px:" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain-wordmark.svg"  />
 <img aling="left" alt="mysql" width="90px" style="padding-right10px:"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"  />
@@ -31,7 +31,7 @@
           
 
 
-## Contacto
+# Contact
 ¡Me encantaría conectarme contigo! Si tienes alguna pregunta, sugerencia o simplemente quieres charlar sobre QA y automatización, no dudes en contactarme:
 - <a href="https://www.linkedin.com/in/yeison-andres-parra-cordoba-b99487206/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="david mendoza ramos" height="30" width="40" /></a> 
 
