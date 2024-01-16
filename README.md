@@ -8,6 +8,12 @@
 - 💼 Actualmente trabajo como QA Automatizador.
 - 🚀 Me encanta explorar nuevas tecnologías y encontrar soluciones creativas para desafíos de testing.
 
+ # 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=yapcc00&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=yapcc00&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=yapcc00&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
 
 
 ## Habilidades
