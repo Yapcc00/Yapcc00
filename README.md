@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+Soy+YeisonCordoba!;Soy+un+QA+Auomation...;I'm+also+Machine+Learning+Engineer;And+I'm+a+proud+Pakistani+🇵🇰)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+Soy+YeisonCordoba!;Soy+un+QA+Automaizador...+co)](https://git.io/typing-svg)
 
 
 ¡Hola! Soy Yeison Cordoba, un apasionado QA automatizador, enfocado en asegurar la calidad del software a través de pruebas automatizadas. Este repositorio es el lugar donde comparto mis proyectos, scripts y experiencias relacionadas con la automatización de pruebas.
