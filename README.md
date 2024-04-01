@@ -48,4 +48,13 @@ Experiencias: Reflexiones y aprendizajes derivados de mi trayectoria en el mundo
 ¡Gracias por visitar mi repositorio! Espero que encuentres útiles mis proyectos y que podamos colaborar en el emocionante mundo de la QA automatizada.
 
 
-![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+<table style="width:100%">
+<tr>
+<td>
+<a href="[https://www.youtube.com/watch?v=ZZYZ0zEHfPw&t=279s&ab_channel=Marhuire%E2%99%AA](https://youtu.be/0Q9vLuD4OeM?si=yBZkvbzADjyEwLWh)">
+<img src="https://i.ytimg.com/vi/ZZYZ0zEHfPw/maxresdefault.jpg">
+</a>
+</td>
+</tr>
+<tr>
+</table>
