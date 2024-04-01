@@ -46,3 +46,6 @@ Experiencias: Reflexiones y aprendizajes derivados de mi trayectoria en el mundo
 
 
 ¡Gracias por visitar mi repositorio! Espero que encuentres útiles mis proyectos y que podamos colaborar en el emocionante mundo de la QA automatizada.
+
+
+![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
