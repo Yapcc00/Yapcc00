@@ -51,7 +51,7 @@ Experiencias: Reflexiones y aprendizajes derivados de mi trayectoria en el mundo
 <table style="width:100%">
 <tr>
 <td>
-<a href="[https://www.youtube.com/watch?v=ZZYZ0zEHfPw&t=279s&ab_channel=Marhuire%E2%99%AA](https://youtu.be/0Q9vLuD4OeM?si=yBZkvbzADjyEwLWh)">
+<a href="https://www.youtube.com/watch?v=0Q9vLuD4OeM">
 <img src="https://i.ytimg.com/vi/ZZYZ0zEHfPw/maxresdefault.jpg">
 </a>
 </td>
