@@ -47,13 +47,3 @@ Experiencias: Reflexiones y aprendizajes derivados de mi trayectoria en el mundo
 
 ¡Gracias por visitar mi repositorio! Espero que encuentres útiles mis proyectos y que podamos colaborar en el emocionante mundo de la QA automatizada.
 
-
-<table style="width:100%">
-<tr>
-<td>
-<a href="https://www.youtube.com/watch?v=0Q9vLuD4OeM">
-</a>
-</td>
-</tr>
-<tr>
-</table>
