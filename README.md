@@ -31,7 +31,11 @@ Experiencias: Reflexiones y aprendizajes derivados de mi trayectoria en el mundo
 <img aling="left" alt="js" width="80px" style="padding-right10px:"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 
           
-
+<div align="center">
+<br><p align="centre"><b>Visitors Count 👽 </b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{👽}/count.svg" /></p> 
+<br>
+</div>
 
 # 📱 Contact
 ¡Me encantaría conectarme contigo! Si tienes alguna pregunta, sugerencia o simplemente quieres charlar sobre QA y automatización, no dudes en contactarme:
