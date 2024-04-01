@@ -52,7 +52,6 @@ Experiencias: Reflexiones y aprendizajes derivados de mi trayectoria en el mundo
 <tr>
 <td>
 <a href="https://www.youtube.com/watch?v=0Q9vLuD4OeM">
-<img src="https://i.ytimg.com/vi/ZZYZ0zEHfPw/maxresdefault.jpg">
 </a>
 </td>
 </tr>
